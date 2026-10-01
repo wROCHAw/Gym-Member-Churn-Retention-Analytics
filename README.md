@@ -1,5 +1,9 @@
 # Gym Member Churn & Retention Analytics
 
+![Power BI Dashboard]
+<img width="1322" height="741" alt="Captura de tela 2026-10-01 103448" src="https://github.com/user-attachments/assets/2e7f8c38-3a2c-4337-8ada-ff862a5cf7de" />
+
+
 ## Executive Summary
 This project delivers an end-to-end analytics solution to identify the root causes of member churn in a gym setting. By combining data modeling in **MySQL** with advanced visualization and DAX measures in **Power BI**, the analysis uncovered a critical retention bottleneck between **months 3 and 6**, directly linked to **weight loss progress stagnation** and **flexible monthly subscriptions**.
 
