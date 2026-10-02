@@ -1,6 +1,6 @@
 # Gym Member Churn & Retention Analytics
 
-![Power BI Dashboard]
+
 <img width="1322" height="741" alt="Captura de tela 2026-10-01 103448" src="https://github.com/user-attachments/assets/2e7f8c38-3a2c-4337-8ada-ff862a5cf7de" />
 
 
@@ -25,7 +25,7 @@ This project delivers an end-to-end analytics solution to identify the root caus
 * **Data Modeling & DAX:** Power BI Desktop
   * Developed measures for **High Risk Members** (`CALCULATE`, `COUNTROWS`) and **High Risk Rate %** (`DIVIDE`).
   * Configured dynamic Gauge targets and custom slicers for cross-filtering.
-* **Data Visualization:** High-contrast Dark Mode layout organized into a structured logical narrative (KPI Cards $\rightarrow$ Core Drivers $\rightarrow$ Granular Trends).
+* **Data Visualization:** High-contrast Dark Mode layout organized into a structured logical narrative (KPI Cards > Core Drivers > Granular Trends).
 
 ---
 
